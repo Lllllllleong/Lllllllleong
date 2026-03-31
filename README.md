@@ -1,6 +1,4 @@
-![My GIF](gif/leongGOL.gif)
-
-![My GIF](gif/leongGOL720.gif)
+<img src="gif/leongGOL720.gif" width="100%" alt="leongGOL"/>
 
 ## Hi there 👋 This readme is still a WIP.
 
