@@ -1,4 +1,8 @@
+![My GIF](gif/leongGOL.gif)
+
 ## Hi there 👋
+
+
 
 <!--
 **Lllllllleong/Lllllllleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
