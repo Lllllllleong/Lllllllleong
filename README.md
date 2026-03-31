@@ -1,13 +1,12 @@
 ![My GIF](gif/leongGOL.gif)
 
-## Hi there 👋
+## Hi there 👋 This readme is still a WIP.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lllllllleong?theme=catppuccinMocha&font=Karma)
 
 
 
-<!--
-**Lllllllleong/Lllllllleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get me started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
