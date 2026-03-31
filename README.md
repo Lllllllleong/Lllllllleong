@@ -1,5 +1,7 @@
 ![My GIF](gif/leongGOL.gif)
 
+![My GIF](gif/leongGOL720.gif)
+
 ## Hi there 👋 This readme is still a WIP.
 
 <img src="https://leetcard.jacoblin.cool/Lllllllleong?theme=catppuccinMocha&font=Karma" height="150" alt="LeetCode Stats"/> &nbsp; <a href="https://www.credly.com/badges/4d48dd53-502c-40ae-a6e8-e15fcd72c333/public_url"><img src="https://images.credly.com/size/220x220/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" height="150" alt="GCP Certified - Professional Cloud Developer"/></a>
