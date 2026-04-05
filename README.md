@@ -1,5 +1,5 @@
 <img src="gif/leongGOL720.gif" width="100%" alt="leongGOL"/>
-<br><br>
+<br>
 
 <div align="center">
 
