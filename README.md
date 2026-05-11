@@ -17,7 +17,7 @@
  
 Actuarial & Quantitative Finance graduate from ANU, pivoted into software engineering. I build cloud-native systems in Go on GCP.
  
-Recently relocated from Canberra to Sydney, actively looking for my first software engineering role here!
+Recently relocated from Canberra to Sydney, actively looking for my full time role here!
  
 ### What I'm up to
  
